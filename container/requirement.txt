@@ -1,0 +1,5 @@
+fastapi
+pandas
+sklearn
+stop_words
+joblib
